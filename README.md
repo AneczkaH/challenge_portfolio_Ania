@@ -29,15 +29,16 @@ Moim głownym celem jest jak najszybsze znalezienie pracy. :computer: :office:
 #### Opis aplikacji
 Aplikacja przeznaczona do zarządzania graczami piłki nożnej. 
 Pozwala łowcom talentów przeglądać wskaźniki, umiejętności, raporty meczowe poszczególnych graczy.
+
 Składa się ze strony głównej https://scouts-test.futbolkolektyw.pl/
 
-Strona graczy https://scouts-test.futbolkolektyw.pl/players
+Strona graczy `https://scouts-test.futbolkolektyw.pl/players`
 
-Strona konkretnego gracza https://scouts-test.futbolkolektyw.pl/players/:IdPlayer
+Strona konkretnego gracza `https://scouts-test.futbolkolektyw.pl/players/:IdPlayer`
 
-Strona meczów https://scouts-test.futbolkolektyw.pl/players/:IdPlayer/matches
+Strona meczów `https://scouts-test.futbolkolektyw.pl/players/:IdPlayer/matches`
 
-Strona raportów https://scouts-test.futbolkolektyw.pl/players/:IdPlayer/raports
+Strona raportów `https://scouts-test.futbolkolektyw.pl/players/:IdPlayer/raports`
 
 #### Lista funkcjonalności
 - Logowanie
