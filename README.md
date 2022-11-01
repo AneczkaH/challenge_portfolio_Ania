@@ -136,7 +136,7 @@ Edycja meczu
 - pole nr - przyjmuje wartości ujemne i bardzo duże liczby - należałoby wprowadzić wartości brzegowe.
 
 Strona raportów
-- klikając przycisk "+DODAJ RAPORT" zostajemy przeniesieni do "strony MECZÓW" https://scouts-test.futbolkolektyw.pl/pl/players/{IdPlayer}/matches - nie otwiera się formularz raportu,
+- klikając przycisk "+DODAJ RAPORT" zostajemy przeniesieni do "strony MECZÓW" `https://scouts-test.futbolkolektyw.pl/pl/players/{IdPlayer}/matches` - nie otwiera się formularz raportu,
 - aby przeglądać raport musimy wejść w przycisk edycji,
 - edytując raport klikając w link www.futbolkolektyw.pl otrzymujemy status code 404 Page Not found. 
 
