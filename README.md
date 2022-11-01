@@ -23,8 +23,8 @@ Moim głownym celem jest jak najszybsze znalezienie pracy. :computer: :office:
 * [Opis aplikacji](#opis-aplikacji)
 * [Lista funkcjonalności](#lista-funkcjonalności)
 * [Ocena interfejsu](#ocena-interfejsu)
-* [Ocena intuicyjności aplikacji]
-* [Zauważone błędy]
+* [Ocena intuicyjności aplikacji](#ocena-intuicyjności)
+* [Zauważone błędy](#zauważone-błędy)
 
 #### Opis aplikacji
 Aplikacja przeznaczona do zarządzania graczami piłki nożnej. 
