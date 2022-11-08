@@ -9,6 +9,7 @@
 
  * [Subtask 1 Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
  * [Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+ * [Subtask 3 Po co piszemy przypadki testowe?](#subtask-3-po-co-piszemy-przypadki-testowe)
  * [Subtask 4 Pisanie przypadków testowych na podstawie "własnych doświadczeń" w grupie](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń-w-grupie)
 
 ## Subtask 1
@@ -174,18 +175,34 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 :heavy_check_mark: zaproszenie członków zespołu
 
-## Subtask 1 Pisanie przypadków testowych na podstawie User Story
+# TASK 2
+## Subtask 1 Pisanie przypadków testowych na podstawie User Story  
   Used aplication https://scouts-test.futbolkolektyw.pl/
   #### Below link to my work
-  [Subtask 1 Test Cases](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+  [:link: Subtask 1 Test Cases](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
 
-## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń
+## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"
   Used aplication https://scouts-test.futbolkolektyw.pl/
   #### Below link to my work
-  [Subtask 2 Test Cases](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+  [:link: Subtask 2 Test Cases](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+
+## Subtask 3 Po co piszemy przypadki testowe?
+  :exclamation: Przypadki testowe przygotowujemy w celu sprawdzenia prawidłowego działania funkcjonalności oprogramowania. 
+
+  :exclamation: Tworzymy je aby udokumentować możliwość obsłużenia poszczególnych modułów , z których składa się aplikacja.
+
+  :exclamation: Odpowiednie pokrycie przypadkami testowymi oprogramowania daje nam pewność, że nie pomineliśmy żadnej ważnej punkcjonalności.
+
+  :exclamation: Mogą być podstawą do przygotowania raportów z wykonanych testów.
+
+  :exclamation: Dla nowych pracowników mogą być cennym źródłem informacji na temat oprogramowania.
+
+  :exclamation: Można je wykorzystać w testach akceptacyjnych w celu sprawdzenia czy oprogramowanie spełnia oczekiwania i wymagania klienta.
+
+  :exclamation: Odpowiednio przygotowane i utrzymane pozwolą na ich ponowne wykorzystanie.
 
 ## Subtask 4 Pisanie przypadków testowych na podstawie “własnych doświadczeń" w grupie
   Used aplication Pick Eat Up
   #### Below link to my work
-  [Subtask 4 pickeatup_TC](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+  [:link: Subtask 4 pickeatup_TC](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
 
