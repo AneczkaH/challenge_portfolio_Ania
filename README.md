@@ -1,9 +1,15 @@
 # TASK 1
 
-* [Subtask 1](#subtask-1)
-* [Subtask 3](#subtask-3)
-* [Subtask 4](#subtask-4)
-* [Subtask 5](#subtask-5)
+ * [Subtask 1](#subtask-1)
+ * [Subtask 3](#subtask-3)
+ * [Subtask 4](#subtask-4)
+ * [Subtask 5](#subtask-5)
+
+# TASK 2
+
+ * [Subtask 1 Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
+ * [Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+ * [Subtask 4 Pisanie przypadków testowych na podstawie "własnych doświadczeń" w grupie](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń-w-grupie)
 
 ## Subtask 1
 8 pkt :blush:
@@ -167,3 +173,19 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 :heavy_check_mark: założenie projektu
 
 :heavy_check_mark: zaproszenie członków zespołu
+
+## Subtask 1 Pisanie przypadków testowych na podstawie User Story
+  Used aplication https://scouts-test.futbolkolektyw.pl/
+  #### Below link to my work
+  [Subtask 1 Test Cases](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+
+## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń
+  Used aplication https://scouts-test.futbolkolektyw.pl/
+  #### Below link to my work
+  [Subtask 2 Test Cases](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+
+## Subtask 4 Pisanie przypadków testowych na podstawie “własnych doświadczeń" w grupie
+  Used aplication Pick Eat Up
+  #### Below link to my work
+  [Subtask 4 pickeatup_TC](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+
