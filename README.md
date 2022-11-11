@@ -25,6 +25,10 @@
  
  :point_right: [Subtask 2 Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
  
+ :point_right: [Subtask 3 Raport z wykonanych testów](#subtask-3-raport-z-wykonanych-testów)
+ 
+ :point_right: [Subtask 4 Dla grupy i chętnych. Sesja testów eksploracyjnych](#subtask-4-dla-grupy-i-chętnych-sesja-testów-eksploracyjnych)
+ 
 ## Subtask 1
 8 pkt :blush:
 
@@ -221,11 +225,24 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 # TASK 3
 
-## Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
+## Subtask 1 Creating a form for reporting system bugs
 
 :heavy_check_mark: wykonane
 
-## Subtask 2 Testowanie według planów testów i raportowanie błędów
+#### Below link to my work
+[:link: Form for reporting bugs](https://docs.google.com/spreadsheets/d/1GyvHEd02_fEqY_PLHxTPXukKJrbQuHruChx0VWzryOY/edit?usp=sharing)
+
+## Subtask 2 Testowanie według planów testów i raportowanie błędów 
+
+#### Below link to my work
+[:link: Test Cases with bugs reports]()
+
+## Subtask 3 Raport z wykonanych testów
+
+#### Below link to my work
+[:link: Test Cases with bugs reports]()
+
+## Subtask 4 Dla grupy i chętnych. Sesja testów eksploracyjnych
 
 #### Below link to my work
 [:link: Test Cases with bugs reports]()
