@@ -21,9 +21,9 @@
  
 
 # TASK 3
- :point_right: [Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu](subtask-1-utworzenie-formatki-do-zgłaszania-błędów-systemu)
+ :point_right: [Subtask 1 Utworzenie formatki do zgłaszania błędów systemu](#subtask-1-utworzenie-formatki-do-zgłaszania-błędów-systemu)
  
- :point_right: [Subtask 2 - Testowanie według planów testów i raportowanie błędów](subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
+ :point_right: [Subtask 2 Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
  
 ## Subtask 1
 8 pkt :blush:
@@ -221,11 +221,11 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 # TASK 3
 
-## Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu
+## Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
 
 :heavy_check_mark: wykonane
 
-## Subtask 2 - Testowanie według planów testów i raportowanie błędów
+## Subtask 2 Testowanie według planów testów i raportowanie błędów
 
 #### Below link to my work
 [:link: Test Cases with bugs reports]()
