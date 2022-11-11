@@ -1,17 +1,30 @@
 # TASK 1
 
- * [Subtask 1](#subtask-1)
- * [Subtask 3](#subtask-3)
- * [Subtask 4](#subtask-4)
- * [Subtask 5](#subtask-5)
+ :point_right: [Subtask 1](#subtask-1)
+ 
+ :point_right: [Subtask 3](#subtask-3)
+ 
+ :point_right: [Subtask 4](#subtask-4)
+ 
+ :point_right: [Subtask 5](#subtask-5)
+ 
 
 # TASK 2
 
- * [Subtask 1 Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
- * [Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
- * [Subtask 3 Po co piszemy przypadki testowe?](#subtask-3-po-co-piszemy-przypadki-testowe)
- * [Subtask 4 Pisanie przypadków testowych na podstawie "własnych doświadczeń" w grupie](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń-w-grupie)
+ :point_right: [Subtask 1 Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
+ 
+ :point_right: [Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+ 
+ :point_right: [Subtask 3 Po co piszemy przypadki testowe?](#subtask-3-po-co-piszemy-przypadki-testowe)
+ 
+ :point_right: [Subtask 4 Pisanie przypadków testowych na podstawie "własnych doświadczeń" w grupie](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń-w-grupie)
+ 
 
+# TASK 3
+ :point_right: [Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu](subtask-1-utworzenie-formatki-do-zgłaszania-błędów-systemu)
+ 
+ :point_right: [Subtask 2 - Testowanie według planów testów i raportowanie błędów](subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
+ 
 ## Subtask 1
 8 pkt :blush:
 
@@ -27,14 +40,14 @@ Moim głownym celem jest, jak najszybsze znalezienie pracy. :computer: :office:
 ## Subtask 4
 
 ### Scouts Panel
-* [Opis aplikacji](#opis-aplikacji)
-* [Lista funkcjonalności](#lista-funkcjonalności)
-* [Ocena interfejsu](#ocena-interfejsu)
-* [Ocena intuicyjności aplikacji](#ocena-intuicyjności)
-* [Zauważone błędy](#zauważone-błędy)
+:soccer: [Opis aplikacji](#opis-aplikacji)
+:soccer: [Lista funkcjonalności](#lista-funkcjonalności)
+:soccer: [Ocena interfejsu](#ocena-interfejsu)
+:soccer: [Ocena intuicyjności aplikacji](#ocena-intuicyjności)
+:soccer: [Zauważone błędy](#zauważone-błędy)
 
 ### Opis aplikacji
-Aplikacja przeznaczona do zarządzania graczami piłki nożnej :soccer: :soccer: :soccer:
+Aplikacja przeznaczona do zarządzania graczami piłki nożnej :trophy: :soccer: :soccer: :soccer: :trophy:
 Pozwala łowcom talentów przeglądać wskaźniki, umiejętności oraz raporty meczowe poszczególnych graczy.
 
 Składa się ze strony głównej https://scouts-test.futbolkolektyw.pl/
@@ -206,3 +219,13 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
   #### Below link to my work
   [:link: Subtask 4 pickeatup_TC](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
 
+# TASK 3
+
+## Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu
+
+:heavy_check_mark: wykonane
+
+## Subtask 2 - Testowanie według planów testów i raportowanie błędów
+
+#### Below link to my work
+[:link: Test Cases with bugs reports]()
