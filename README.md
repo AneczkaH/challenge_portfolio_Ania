@@ -230,7 +230,7 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 :heavy_check_mark: wykonane
 
 #### Below link to my work
-[:link: Form for reporting bugs](https://docs.google.com/spreadsheets/d/1GyvHEd02_fEqY_PLHxTPXukKJrbQuHruChx0VWzryOY/edit?usp=sharing)
+[:link: Form for reporting bugs](https://docs.google.com/spreadsheets/d/16WHc_jIXuIU_GSwJQ92fDu0YHpByebRL-rqnq_NGHCQ/edit?usp=sharing)
 
 ## Subtask 2 Testowanie według planów testów i raportowanie błędów 
 
