@@ -234,15 +234,22 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 ## Subtask 2 Testowanie według planów testów i raportowanie błędów 
 
+:heavy_check_mark: wykonane
+
 #### Below link to my work
-[:link: Test Cases with bugs reports]()
+[:link: Test Cases with bugs reports](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
 
 ## Subtask 3 Raport z wykonanych testów
 
+:heavy_check_mark: wykonane
+
 #### Below link to my work
-[:link: Test Cases with bugs reports]()
+[:link: Test Cases with bugs reports](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
 
 ## Subtask 4 Dla grupy i chętnych. Sesja testów eksploracyjnych
 
 #### Below link to my work
+
+:x:
+
 [:link: Test Cases with bugs reports]()
