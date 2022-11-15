@@ -225,6 +225,8 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 # TASK 3
 
+Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
+
 ## Subtask 1 Creating a form for reporting system bugs
 
 :heavy_check_mark: wykonane
