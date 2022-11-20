@@ -21,13 +21,22 @@
  
 
 # TASK 3
- :point_right: [Subtask 1 Utworzenie formatki do zgłaszania błędów systemu](#subtask-1-utworzenie-formatki-do-zgłaszania-błędów-systemu)
+ :point_right: [Subtask 1 Creating a form for reporting system bugs](#subtask-1-creating-a-form-for-reporting-system-bugs)
  
  :point_right: [Subtask 2 Testowanie według planów testów i raportowanie błędów](#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
  
  :point_right: [Subtask 3 Raport z wykonanych testów](#subtask-3-raport-z-wykonanych-testów)
  
  :point_right: [Subtask 4 Dla grupy i chętnych. Sesja testów eksploracyjnych](#subtask-4-dla-grupy-i-chętnych-sesja-testów-eksploracyjnych)
+ 
+# TASK 4
+ :point_right: [Subtask 1 Utworzenie formatki do zgłaszania błędów](#subtask-1-utworzenie-formatki-do-zgłaszania-błędów)
+ 
+ :point_right: [Subtask 2 Testowanie eksploracyjne i raportowanie błędów](#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
+ 
+ :point_right: [Subtask 3 Do czego służy ta aplikacja?](#subtask-3-do-czego-służy-ta-aplikacja)
+ 
+ :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
  
 ## Subtask 1
 8 pkt :blush:
@@ -255,3 +264,13 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 #### Below link to my work
 
 [:link: Test Cases with bugs reports]()
+
+# TASK 4
+
+## Subtask 1 Utworzenie formatki do zgłaszania błędów
+
+## Subtask 2 Testowanie eksploracyjne i raportowanie błędów
+
+## Subtask 3 Do czego służy ta aplikacja?
+
+## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
