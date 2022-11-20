@@ -273,7 +273,33 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 
 ## Subtask 3 Do czego służy ta aplikacja?
 
-![]()
+![](screenshots/5236360.jpg)
 Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-medytujaca-spokojnie_13404871.htm">Freepik</a>
+
+Aplikacja skierowana do osób zainteresowanych rozwojem duchowym, a także dla tych z problemami radzenia sobie ze stresem, emocjami, ze snem, z koncentracją i nie tyko.
+W aplikacji znajdziemy ogrom wiedzy związanej z medytacją, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
+Myślę że aplikacja ma nieść pomoc i umożliwiać edukację na temat naszych emocji, radzenia sobie ze stresem ale nadrzędnym celem jest generowanie zysku.
+Głównym celem aplikacji jest generowanie zysku możliwe jest subskrybowanie: z opcją miesięczną lub roczną. Partnerem jest równiej Multispor więc możnka skorzystać będąc właścicielem karty Multisport.
+Istnieje również możliwość korzystania w ramach "Gość"
+
+Aplikacja jest dość intuicyjna i przyjemna w obsłudze. Chociaż czasami niestabilna. 
+
+Fajna opcją są przypomnienia o ćwiczeniach do odbycia.
+Możliwość polubienia konkretnego odcinka.
+Wyboru celu, wyzwania
+
+Usprawnienia
+Do muzyki dodałabym przyciski poprzedni następny utwór, oraz opcje puszczania utworów w pętli. 
+Do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą. 
+W wyzwaniach możliwość uczestniczenia w wiecej niż jednym wyzwaniu.
+
+
+:cherry_blossom: [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#do-czego-służy-ta-aplikacja-jaki-jest-cel-tej-aplikacji)
+:yin_yang: [Lista funkcjonalności](#lista-funkcjonalności)
+:leaves: [Ocena interfejsu](#ocena-interfejsu)
+:four_leaf_clover: [Ocena intuicyjności aplikacji](#ocena-intuicyjności)
+:blossom: [Zauważone błędy](#zauważone-błędy)
+
+### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
