@@ -273,4 +273,7 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 
 ## Subtask 3 Do czego służy ta aplikacja?
 
+![]()
+Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-medytujaca-spokojnie_13404871.htm">Freepik</a>
+
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
