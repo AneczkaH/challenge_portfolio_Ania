@@ -269,37 +269,65 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 
 ## Subtask 1 Utworzenie formatki do zgłaszania błędów
 
+:heavy_check_mark: done
+
+#### Below link to my work
+[:link: Form for reporting bugs](https://docs.google.com/spreadsheets/d/18r_vD8xQHRbiuMH_4FHGTPJGYh4w_oc8NhGwj26GJtA/edit?usp=sharing)
+
 ## Subtask 2 Testowanie eksploracyjne i raportowanie błędów
+
+:heavy_check_mark: done
+
+#### Below link to my work
+[:link: Report of bugs](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
 
 ## Subtask 3 Do czego służy ta aplikacja?
 
 ![](screenshots/5236360.jpg)
 Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-medytujaca-spokojnie_13404871.htm">Freepik</a>
 
-Aplikacja skierowana do osób zainteresowanych rozwojem duchowym, a także dla tych z problemami radzenia sobie ze stresem, emocjami, ze snem, z koncentracją i nie tyko.
+:lotus_position: [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#do-czego-służy-ta-aplikacja-jaki-jest-cel-tej-aplikacji)
+
+:lotus_position: [Kto ma być użytkownikiem końcowym aplikacji?](#kto-ma-być-użytkownikiem-końcowym-aplikacji)
+
+:lotus_position: [Czy według Ciebie aplikacja jest user friendly?](#czy-według-ciebie-aplikacja-jest-user-friendly)
+
+:wrench: [Jak usprawnić aplikację?](#jak-usprawnić-aplikację)
+
+:interrobang: [Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?](#jakie-dostrzegasz-różnice-pomiędzy-testowaniem-aplikacji-internetowej-a-natywnej)
+
+### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+<a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
 W aplikacji znajdziemy ogrom wiedzy związanej z medytacją, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
 Myślę że aplikacja ma nieść pomoc i umożliwiać edukację na temat naszych emocji, radzenia sobie ze stresem ale nadrzędnym celem jest generowanie zysku.
 Głównym celem aplikacji jest generowanie zysku możliwe jest subskrybowanie: z opcją miesięczną lub roczną. Partnerem jest równiej Multispor więc możnka skorzystać będąc właścicielem karty Multisport.
 Istnieje również możliwość korzystania w ramach "Gość"
-
-Aplikacja jest dość intuicyjna i przyjemna w obsłudze. Chociaż czasami niestabilna. 
-
+Bardzo podoba mi się moduł związany z ćwiczeniem oddechu.
 Fajna opcją są przypomnienia o ćwiczeniach do odbycia.
 Możliwość polubienia konkretnego odcinka.
-Wyboru celu, wyzwania
+Wyboru celu, wyzwania.
 
-Usprawnienia
-Do muzyki dodałabym przyciski poprzedni następny utwór, oraz opcje puszczania utworów w pętli. 
-Do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą. 
+### Kto ma być użytkownikiem końcowym aplikacji?
+Aplikacja skierowana do osób zainteresowanych rozwojem duchowym, a także dla tych z problemami radzenia sobie ze stresem, emocjami, ze snem, z koncentracją i nie tyko.
+
+### Czy według Ciebie aplikacja jest user friendly?
+Aplikacja jest dość intuicyjna i przyjemna w obsłudze. 
+
+### Jak usprawnić aplikację? 
+
+:wrench: Do muzyki dodałabym przyciski poprzedni następny utwór, oraz opcje puszczania utworów w pętli. 
+Do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą tak aby materiały związane z ciązą/dziecmi itd były dobrze proponowane. 
+Opcja dopasowania materiałów do konkretnej osoby należałoby dopracować. Tak aby wybierając Rzwój osobisty nie otrzymywać informacji np. "zdrowie psyhiczne w połogu" hmm należłoo
 W wyzwaniach możliwość uczestniczenia w wiecej niż jednym wyzwaniu.
+W miejscach gdzie zaimplementowany został przycisk play nad listą utworów należy go naprawić albo usunąć (lepiej żeby go nie było niż ma być niedziałający).
+W funkcjonalności związanej z oddechem troszkę bym skróciła czas nabierania powietrz nawet na najniższym poziomie miałam problem :stuck_out_tongue_winking_eye: chyba że potrzebuje treningu :muscle:
+Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi sie aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
+
+### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
 
-:cherry_blossom: [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#do-czego-służy-ta-aplikacja-jaki-jest-cel-tej-aplikacji)
-:yin_yang: [Lista funkcjonalności](#lista-funkcjonalności)
-:leaves: [Ocena interfejsu](#ocena-interfejsu)
-:four_leaf_clover: [Ocena intuicyjności aplikacji](#ocena-intuicyjności)
-:blossom: [Zauważone błędy](#zauważone-błędy)
 
-### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
+
+:heavy_check_mark: done
