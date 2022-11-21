@@ -38,6 +38,10 @@
  
  :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
  
+
+
+# TASK 1
+
 ## Subtask 1
 8 pkt :blush:
 
@@ -201,7 +205,11 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 :heavy_check_mark: zaproszenie członków zespołu
 
+
+
+
 # TASK 2
+
 ## Subtask 1 Pisanie przypadków testowych na podstawie User Story  
   Used aplication https://scouts-test.futbolkolektyw.pl/
   #### Below link to my work
@@ -231,6 +239,9 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
   Used aplication Pick Eat Up
   #### Below link to my work
   [:link: Subtask 4 pickeatup_TC](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+
+
+
 
 # TASK 3
 
@@ -264,6 +275,9 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 #### Below link to my work
 
 [:link: Test Cases with bugs reports]()
+
+
+
 
 # TASK 4
 
@@ -300,8 +314,19 @@ Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-med
 ![](screenshots/Na_Nov_17.jpg) <a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
 
 
-Sama nazwa **FOCUSLY** sugeruje koncentrację i skupienie. I okazuje się, że ma to sens :slightly_smiling_face: w aplikacji znajdziemy ogrom wiedzy związanej z medytacją :lotus_position: :lotus_position: :lotus_position:, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
-Myślę, że aplikacja umożliwia naukę medytacji, uważności, koncentracji radzenia sobie ze stresem. Pozwala odkryć i zwiększyć świadomość swoich uczuć i emocji. Umożliwia wprowadzenie się w stan relaksu i wyciszenia.  
+Sama nazwa **FOCUSLY** sugeruje koncentrację i skupienie. I okazuje się, że ma to sens :slightly_smiling_face: 
+W aplikacji znajdziemy ogrom wiedzy związanej z:
+- medytacją :lotus_position: :lotus_position: :lotus_position:, 
+- techniką mindfulnes, 
+- ćwiczenia oddechowe, 
+- muzykę relaksacyjną.
+
+Myślę, że aplikacja umożliwia naukę medytacji, uważności, koncentracji, radzenia sobie ze stresem.
+
+Pozwala odkryć i zwiększyć świadomość swoich uczuć i emocji.
+
+Umożliwia wprowadzenie się w stan relaksu i wyciszenia. 
+
 Biorąc pod uwagę, że istnieje możliwość zakupu subskrypcji uważam, że nadrzędnym celem jest generowanie zysku :money_mouth_face::money_mouth_face::money_mouth_face:.
 
 ### Kto ma być użytkownikiem końcowym aplikacji?
@@ -322,12 +347,12 @@ Aplikacja jest dość intuicyjna i przyjemna w obsłudze.
 
 :wrench: Ćwiczenia oddechowe bardzo mi się spodobały troszkę bym skróciła czas nabierania i zatrzymywania powietrza bo nawet na najniższym poziomie miałam problem :woozy_face:  :stuck_out_tongue_winking_eye: chyba że potrzebuje treningu :stuck_out_tongue_winking_eye: :muscle:
 
-:wrench: Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi sie aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
+:wrench: Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi się aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
 
 
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
-Moim zdaniemtestowanie aplikacji mobilnych jest bardziej trudniejsze i bardziej wymagające należy wziąć pod uwagę wiele rodzajów telefonów.
+Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wziąć pod uwagę wiele rodzajów telefonów, wielkości ekranów oraz systemów operacyjnych, które częściej się zmieniają.
 
 
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
