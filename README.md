@@ -297,7 +297,9 @@ Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-med
 :interrobang: [Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?](#jakie-dostrzegasz-różnice-pomiędzy-testowaniem-aplikacji-internetowej-a-natywnej)
 
 ### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
-<a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
+![](screenshots/Na_Nov_17.jpg) <a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
+
+
 W aplikacji znajdziemy ogrom wiedzy związanej z medytacją, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
 Myślę że aplikacja ma nieść pomoc i umożliwiać edukację na temat naszych emocji, radzenia sobie ze stresem ale nadrzędnym celem jest generowanie zysku.
 Głównym celem aplikacji jest generowanie zysku możliwe jest subskrybowanie: z opcją miesięczną lub roczną. Partnerem jest równiej Multispor więc możnka skorzystać będąc właścicielem karty Multisport.
