@@ -311,7 +311,8 @@ Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-med
 :interrobang: [Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?](#jakie-dostrzegasz-różnice-pomiędzy-testowaniem-aplikacji-internetowej-a-natywnej)
 
 ### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
-![](screenshots/Na_Nov_17.jpg) <a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
+
+![](screenshots/Na_Nov_17.jpg)<a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
 
 
 Sama nazwa **FOCUSLY** sugeruje koncentrację i skupienie. I okazuje się, że ma to sens :slightly_smiling_face: 
