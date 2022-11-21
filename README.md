@@ -286,11 +286,11 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 ![](screenshots/5236360.jpg)
 Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-medytujaca-spokojnie_13404871.htm">Freepik</a>
 
-:lotus_position: [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#do-czego-służy-ta-aplikacja-jaki-jest-cel-tej-aplikacji)
+:thinking: [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#do-czego-służy-ta-aplikacja-jaki-jest-cel-tej-aplikacji)
 
-:lotus_position: [Kto ma być użytkownikiem końcowym aplikacji?](#kto-ma-być-użytkownikiem-końcowym-aplikacji)
+:thinking:[Kto ma być użytkownikiem końcowym aplikacji?](#kto-ma-być-użytkownikiem-końcowym-aplikacji)
 
-:lotus_position: [Czy według Ciebie aplikacja jest user friendly?](#czy-według-ciebie-aplikacja-jest-user-friendly)
+:thinking: [Czy według Ciebie aplikacja jest user friendly?](#czy-według-ciebie-aplikacja-jest-user-friendly)
 
 :wrench: [Jak usprawnić aplikację?](#jak-usprawnić-aplikację)
 
@@ -300,17 +300,12 @@ Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/plaska-osoba-med
 ![](screenshots/Na_Nov_17.jpg) <a href="https://pl.freepik.com/darmowe-wektory/biznesmen-dokonac-sukces-w-biznesie-wzrostu-pieniedzy-inwestycje-finansowe-i-zwrot-z-inwestycji-koncepcja-roi-inwestycje-finansowe-marketing-analizy-zabezpieczenia-depozytow-ilustracji-wektorowych_21586033.htm#query=make%20money&position=2&from_view=search&track=sph">Obraz autorstwa jcomp</a> na Freepik
 
 
-W aplikacji znajdziemy ogrom wiedzy związanej z medytacją, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
-Myślę że aplikacja ma nieść pomoc i umożliwiać edukację na temat naszych emocji, radzenia sobie ze stresem ale nadrzędnym celem jest generowanie zysku.
-Głównym celem aplikacji jest generowanie zysku możliwe jest subskrybowanie: z opcją miesięczną lub roczną. Partnerem jest równiej Multispor więc możnka skorzystać będąc właścicielem karty Multisport.
-Istnieje również możliwość korzystania w ramach "Gość"
-Bardzo podoba mi się moduł związany z ćwiczeniem oddechu.
-Fajna opcją są przypomnienia o ćwiczeniach do odbycia.
-Możliwość polubienia konkretnego odcinka.
-Wyboru celu, wyzwania.
+Sama nazwa **FOCUSLY** sugeruje koncentrację i skupienie. I okazuje się, że ma to sens :slightly_smiling_face: w aplikacji znajdziemy ogrom wiedzy związanej z medytacją :lotus_position: :lotus_position: :lotus_position:, techniką mindfulnes, ćwiczenia oddechowe, muzykę relaksacyjną.
+Myślę, że aplikacja umożliwia naukę medytacji, uważności, koncentracji radzenia sobie ze stresem. Pozwala odkryć i zwiększyć świadomość swoich uczuć i emocji. Umożliwia wprowadzenie się w stan relaksu i wyciszenia.  
+Biorąc pod uwagę, że istnieje możliwość zakupu subskrypcji uważam, że nadrzędnym celem jest generowanie zysku :money_mouth_face::money_mouth_face::money_mouth_face:.
 
 ### Kto ma być użytkownikiem końcowym aplikacji?
-Aplikacja skierowana do osób zainteresowanych rozwojem duchowym, a także dla tych z problemami radzenia sobie ze stresem, emocjami, ze snem, z koncentracją i nie tyko.
+Aplikacja skierowana do osób zainteresowanych rozwojem duchowym, a także dla tych, którzy chcą lepiej radzić sobie: ze stresem, emocjami, problemami ze snem, z koncentracją itp.
 
 ### Czy według Ciebie aplikacja jest user friendly?
 Aplikacja jest dość intuicyjna i przyjemna w obsłudze. 
@@ -318,16 +313,21 @@ Aplikacja jest dość intuicyjna i przyjemna w obsłudze.
 ### Jak usprawnić aplikację? 
 
 :wrench: Do muzyki dodałabym przyciski poprzedni następny utwór, oraz opcje puszczania utworów w pętli. 
-Do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą tak aby materiały związane z ciązą/dziecmi itd były dobrze proponowane. 
-Opcja dopasowania materiałów do konkretnej osoby należałoby dopracować. Tak aby wybierając Rzwój osobisty nie otrzymywać informacji np. "zdrowie psyhiczne w połogu" hmm należłoo
-W wyzwaniach możliwość uczestniczenia w wiecej niż jednym wyzwaniu.
-W miejscach gdzie zaimplementowany został przycisk play nad listą utworów należy go naprawić albo usunąć (lepiej żeby go nie było niż ma być niedziałający).
-W funkcjonalności związanej z oddechem troszkę bym skróciła czas nabierania powietrz nawet na najniższym poziomie miałam problem :stuck_out_tongue_winking_eye: chyba że potrzebuje treningu :muscle:
-Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi sie aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
+
+:wrench: Opcja dopasowania materiałów do konkretnej osoby "Dla ciebie" należałoby dopracować. Tak aby wybierając Rozwój osobisty nie otrzymywać informacji np. "zdrowie psyhiczne w połogu" hmm trochę się zdziwiłam :scream_cat: Dlatego do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą tak aby materiały związane z ciążą/dziećmi itd. były dobrze proponowane. 
+
+:wrench: W wyzwaniach możliwość uczestniczenia w wiecej niż jednym wyzwaniu.
+
+:wrench: W miejscach gdzie zaimplementowany został przycisk play nad listą utworów należy go naprawić albo usunąć (lepiej żeby go nie było niż ma być niedziałający).
+
+:wrench: Ćwiczenia oddechowe bardzo mi się spodobały troszkę bym skróciła czas nabierania i zatrzymywania powietrza bo nawet na najniższym poziomie miałam problem :woozy_face:  :stuck_out_tongue_winking_eye: chyba że potrzebuje treningu :stuck_out_tongue_winking_eye: :muscle:
+
+:wrench: Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi sie aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
+
 
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
-
+Moim zdaniemtestowanie aplikacji mobilnych jest bardziej trudniejsze i bardziej wymagające należy wziąć pod uwagę wiele rodzajów telefonów.
 
 
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
