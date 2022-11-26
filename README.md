@@ -375,7 +375,7 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 :heavy_check_mark: done
 
 ## Subtask 2 Konfiguracja środowiska i wgranie bazy danych
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)(https://www.apachefriends.org/pl/index.html )
+[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/pl/index.html )
 
 :heavy_check_mark: done
 
