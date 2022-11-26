@@ -39,11 +39,11 @@
  :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
  
 # TASK 5
-:point_right: [Sbtask 1 Krótki kurs podstaw SQL](#subtask-1-kótki-urs-odstaw-sql)
+:point_right: [Subtask 1 Krótki kurs podstaw SQL](#subtask-1-krótki-kurs-podstaw-sql)
 
 :point_right: [Subtask 2 Konfiguracja środowiska i wgranie bazy danych](#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)
 
-:point_right: [Subtask 3 Kilka zadań na rozgrzewkę](#subtask-3-Kilka zadań na rozgrzewkę)
+:point_right: [Subtask 3 Kilka zadań na rozgrzewkę](#subtask-3-kilka-zadań-na-rozgrzewkę)
 
 
 
@@ -369,7 +369,7 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 
 #Task 5
 
-## Sbtask 1 Krótki kurs podstaw SQL
+## Subtask 1 Krótki kurs podstaw SQL
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
 
 :heavy_check_mark: done
@@ -380,26 +380,64 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 :heavy_check_mark: done
 
 ## Subtask 3 Kilka zadań na rozgrzewkę
+:muscle: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :muscle:
 
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
 `SELECT * FROM actors ORDER BY surname;`
 
+![image](/task_5/zad1.png)
 
 
-2. Wyświetl film, który powstał w 2019 roku.
+### 2. Wyświetl film, który powstał w 2019 roku.
 
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+`SELECT* FROM movies WHERE year_of_production = 2019;`
 
-4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+![image](/task_5/zad2.png)
 
-5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+`SeLECT * FROM movies WHERE year_of_production BETWEEN '1900' AND '1999';`
 
-7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+![image](/task_5/zad3.png)
 
-8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+`SELECT title, price FROM movies WHERE price < 7;`
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+![image](/task_5/zad4.png)
+
+### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+`SELECT * FROM actors WHERE actor_id >= '4' AND actor_id <= '7';`
+
+![image](/task_5/zad5.png)
+
+### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+`SELECT * FROM customers WHERE customer_id = 2 or customer_id= 4 or customer_id=6;`
+
+![image](/task_5/zad6.png)
+
+### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+`SELECT * FROM customers WHERE customer_id IN (1,3,5);`
+
+![image](/task_5/zad7.png)
+
+### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+`SELECT * FROM actors WHERE name LIKE 'An%';`
+![image](/task_5/zad8.png)
+
+### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+`SELECT * FROM customers WHERE email IS null;`
+
+![image](/task_5/zad9.png)
+
+### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+`SELECT * FROM movies WHERE price > '9' AND movie_id BETWEEN 2 AND 8;`
+
+![image](/task_5/zad10.png)
