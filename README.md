@@ -370,7 +370,7 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 #Task 5
 
 ## Sbtask 1 Krótki kurs podstaw SQL
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
 
 :heavy_check_mark: done
 
@@ -382,6 +382,9 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 ## Subtask 3 Kilka zadań na rozgrzewkę
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+`SELECT * FROM actors ORDER BY surname;`
+
+
 
 2. Wyświetl film, który powstał w 2019 roku.
 
