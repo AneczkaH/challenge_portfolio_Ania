@@ -38,6 +38,13 @@
  
  :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
  
+# TASK 5
+:point_right: [Sbtask 1 Krótki kurs podstaw SQL](#subtask-1-kótki-urs-odstaw-sql)
+
+:point_right: [Subtask 2 Konfiguracja środowiska i wgranie bazy danych](#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)
+
+:point_right: [Subtask 3 Kilka zadań na rozgrzewkę](#subtask-3-Kilka zadań na rozgrzewkę)
+
 
 
 # TASK 1
@@ -359,3 +366,37 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
 
 :heavy_check_mark: done
+
+#Task 5
+
+## Sbtask 1 Krótki kurs podstaw SQL
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+:heavy_check_mark: done
+
+## Subtask 2 Konfiguracja środowiska i wgranie bazy danych
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)(https://www.apachefriends.org/pl/index.html )
+
+:heavy_check_mark: done
+
+## Subtask 3 Kilka zadań na rozgrzewkę
+
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
