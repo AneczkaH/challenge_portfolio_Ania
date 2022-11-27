@@ -39,11 +39,11 @@
  :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
  
 # TASK 5
-:point_right: [Subtask 1 Krótki kurs podstaw SQL](#subtask-1-krótki-kurs-podstaw-sql)
+:point_right: [Subtask 1 A short basic SQL course](#subtask-1-a-short-basic-sql-course)
 
-:point_right: [Subtask 2 Konfiguracja środowiska i wgranie bazy danych](#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)
+:point_right: [Subtask 2 Environment configuration and database upload](#subtask-2-environment-configuration-and-database-upload)
 
-:point_right: [Subtask 3 Kilka zadań na rozgrzewkę](#subtask-3-kilka-zadań-na-rozgrzewkę)
+:point_right: [Subtask 3 Some warm-up tasks](#subtask-3-some-warm-up-tasks)
 
 
 
@@ -369,75 +369,271 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 
 #Task 5
 
-## Subtask 1 Krótki kurs podstaw SQL
+## Subtask 1 A short basic SQL course
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
 
 :heavy_check_mark: done
 
-## Subtask 2 Konfiguracja środowiska i wgranie bazy danych
+I learned that SQL (Structured Query Language) is a standard language for accessing and manipulating databases. It is a standard  but there are different versions of the SQL language.
+Relational Database Management System  is the basis for SQL (such as MS SQL Server, Oracle, MySQL).
+
+Most of the actions that we need to do on a database we can to do with SQL statements.
+
+### The SQL STATEMENTS I have learned:
+
+- The **SELECT** statement is used to select data from a database.
+
+```
+SELECT column1_name, column2_name, ...
+FROM table_name;
+```  
+
+`SELECT * FROM table_name;`  If we want to read all columns of the table we can use "*"
+
+- The **CREATE TABLE** statement is used to create a new table in a database.
+
+```
+CREATE TABLE table_name (
+    column1_name datatype,
+    column2_name datatype,
+    column3_name datatype,
+   ....
+);
+```
+
+- The **INSERT INTO** statement is used to insert new records in a table
+
+```
+INSERT INTO table_name (column1_name, column2_name, column3_name, ...)
+VALUES (value1, value2, value3, ...);
+```
+
+or if we want to add values to all columns in the table
+
+```
+INSERT INTO table_name 
+VALUES (value1, value2, value3, ...);
+```
+
+- The **UPDATE** statement is used to modify the existing records in a table
+
+```
+UPDATE table_name
+SET column1_name = value1, column2_name = value2, ...
+WHERE condition;
+```
+
+- The **DELETE** statement is used to delete existing records in a table. We need to remember about condition. If we omit the **WHERE** clause, all records in the table will be deleted!
+
+`DELETE FROM table_name WHERE condition;`
+
+- The **GROUP BY** statement groups rows that have the same values into summary rows
+- 
+
+### The SQL Clause:
+
+- WHERE clause is used to filter records
+- **SELECT TOP** in SQL Server (**LIMIT** in MySQL) clause is used to specify the number of records to return. It is useful on large tables because returning a large number of records can impact performance.
+
+### The SQL Operators:
+- SQL Logical Operators
+  - **AND**
+  - **OR**
+  - **NOT**
+  - **LIKE** operator is used in a WHERE clause to search for a specified pattern in a column. 
+  
+   There are some wildcards used such as:
+   
+    "%" represents zero, one, or multiple characters
+    
+    "_" represents one, single character
+    
+    "[]" Represents any single character within the brackets
+    
+    "^"  Represents any character not in the brackets
+    
+    "-"  Represents any single character within the specified range
+      THE EXAMPLES
+    
+      LIKE 'b%' Finds any values that start with "b"
+    
+      LIKE '%b' Finds any values that end with "b"
+    
+      LIKE '%on%' Finds any values that have "on" in any position
+    
+      LIKE '_c%' Finds any values that have "c" in the second position
+    
+      LIKE 'b_%' Finds any values that start with "b" and are at least 2 characters in length
+    
+      LIKE 'b__%' Finds any values that start with "b" and are at least 3 characters in length
+    
+      LIKE 'k%a' Finds any values that start with "k" and ends with "a"
+            
+    **We can also used their in combinations!**
+    
+  - **IN** operator allows us to specify multiple values in a **WHERE** clause. IT is a shorthand for multiple **OR** conditions.
+  
+    ```
+    SELECT column_name(s)
+     FROM table_name
+     WHERE column_name IN (value1, value2, ...);
+     ```
+  - **BETWEEN** The values can be numbers, text, or dates. 
+  
+    ```
+    SELECT column_name(s)
+     FROM table_name
+     WHERE column_name BETWEEN value1 AND value2;
+    ```
+  - **EXISTS**
+  - **IS NULL** or **IS NOT NULL**
+- SQL Arithmetic Operators: **"+", "-", '*', "/", "%"**
+- SQL Comparison Operators: **"=" , ">", "<", ">=", "<=", "<>"**
+
+### The SQL Keyword:
+
+- The **ORDER BY** keyword is used to sort the result-set in ASC (ascending) or DESC (descending order).
+
+
+### The SQL funcions:
+
+- The **MIN()** function returns the smallest value of the selected column.
+- The **MAX()** function returns the largest value of the selected column.
+- The **COUNT()** function returns the number of rows that matches a specified criterion.
+- The **AVG()** function returns the average value of a numeric column. 
+- The **SUM()** function returns the total sum of a numeric column. 
+
+### SQL aliases
+
+SQL aliases we can use to give a table, or a column in a table, a temporary name.
+
+### SQL Comments
+
+- Single line comments start with **"--"**
+- Multi-line comments start with **"/*"** and end with **"*/"**
+
+## Subtask 2 Environment configuration and database upload
 [![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/pl/index.html )
 
 :heavy_check_mark: done
 
-## Subtask 3 Kilka zadań na rozgrzewkę
+## Subtask 3 Some warm-up tasks
 :muscle: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :cartwheeling: :muscle:
 
 ### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-`SELECT * FROM actors ORDER BY surname;`
+```
+
+SELECT * FROM actors ORDER BY surname;
+
+```
 
 ![image](/task_5/zad1.png)
 
 
 ### 2. Wyświetl film, który powstał w 2019 roku.
 
-`SELECT* FROM movies WHERE year_of_production = 2019;`
+```
+
+SELECT * 
+FROM movies 
+WHERE year_of_production = 2019;
+
+```
 
 ![image](/task_5/zad2.png)
 
 ### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-`SeLECT * FROM movies WHERE year_of_production BETWEEN '1900' AND '1999';`
+```
+
+SELECT * 
+FROM movies 
+WHERE year_of_production BETWEEN '1900' AND '1999';
+
+```
 
 ![image](/task_5/zad3.png)
 
 ### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
-`SELECT title, price FROM movies WHERE price < 7;`
+```
+
+SELECT title, price 
+FROM movies 
+WHERE price < 7;
+
+```
 
 ![image](/task_5/zad4.png)
 
 ### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
-`SELECT * FROM actors WHERE actor_id >= '4' AND actor_id <= '7';`
+```
+
+SELECT * 
+FROM actors 
+WHERE actor_id >= '4' AND actor_id <= '7';
+
+```
 
 ![image](/task_5/zad5.png)
 
 ### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 
-`SELECT * FROM customers WHERE customer_id = 2 or customer_id= 4 or customer_id=6;`
+```
+
+SELECT * 
+FROM customers 
+WHERE customer_id = 2 or customer_id= 4 or customer_id=6;
+
+```
 
 ![image](/task_5/zad6.png)
 
 ### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
-`SELECT * FROM customers WHERE customer_id IN (1,3,5);`
+```
+
+SELECT * 
+FROM customers 
+WHERE customer_id IN (1,3,5);
+
+```
 
 ![image](/task_5/zad7.png)
 
 ### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
-`SELECT * FROM actors WHERE name LIKE 'An%';`
+```
+SELECT * 
+FROM actors 
+WHERE name LIKE 'An%';
+
+```
+
 ![image](/task_5/zad8.png)
 
 ### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
-`SELECT * FROM customers WHERE email IS null;`
+```
+
+SELECT * 
+FROM customers 
+WHERE email IS NULL;
+
+```
 
 ![image](/task_5/zad9.png)
 
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
-`SELECT * FROM movies WHERE price > '9' AND movie_id BETWEEN 2 AND 8;`
+```
+
+SELECT * 
+FROM movies 
+WHERE price > '9' AND movie_id BETWEEN 2 AND 8;
+
+```
 
 ![image](/task_5/zad10.png)
