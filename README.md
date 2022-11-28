@@ -375,10 +375,10 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 
 :heavy_check_mark: done
 
-I learned that SQL (Structured Query Language) is a standard language for accessing and manipulating databases. It is a standard  but there are different versions of the SQL language.
+I learned :mortar_board: that SQL (Structured Query Language) is a standard language for accessing and manipulating databases. It is a standard  but there are different versions of the SQL language.
 Relational Database Management System  is the basis for SQL (such as MS SQL Server, Oracle, MySQL).
 
-Most of the actions that we need to do on a database we can to do with SQL statements.
+Most of the actions that we need to do on a database we can to do with SQL statements. :open_mouth:
 
 ### The SQL STATEMENTS I have learned:
 
