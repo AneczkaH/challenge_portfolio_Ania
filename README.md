@@ -279,11 +279,6 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 
 :x:
 
-#### Below link to my work
-
-[:link: Test Cases with bugs reports]()
-
-
 
 
 # TASK 4
