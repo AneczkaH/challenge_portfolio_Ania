@@ -321,10 +321,10 @@ Sama nazwa **FOCUSLY** sugeruje koncentrację i skupienie. I okazuje się, że m
 W aplikacji znajdziemy ogrom wiedzy związanej z:
 - medytacją :lotus_position: :lotus_position: :lotus_position:, 
 - techniką mindfulnes, 
-- ćwiczenia oddechowe, 
-- muzykę relaksacyjną.
+- ćwiczeniami oddechowymi, 
+- muzyką relaksacyjną.
 
-Myślę, że aplikacja umożliwia naukę medytacji, uważności, koncentracji, radzenia sobie ze stresem.
+Aplikacja umożliwia naukę medytacji, uważności, koncentracji, radzenia sobie ze stresem.
 
 Pozwala odkryć i zwiększyć świadomość swoich uczuć i emocji.
 
