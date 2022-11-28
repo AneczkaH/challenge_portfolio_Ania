@@ -367,7 +367,8 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 
 :heavy_check_mark: done
 
-#Task 5
+
+# TASK 5
 
 ## Subtask 1 A short basic SQL course
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
@@ -388,7 +389,13 @@ SELECT column1_name, column2_name, ...
 FROM table_name;
 ```  
 
-`SELECT * FROM table_name;`  If we want to read all columns of the table we can use "*"
+If we want to read all columns of the table we can use "*"
+
+```
+SELECT * 
+FROM table_name;
+```  
+
 
 - The **CREATE TABLE** statement is used to create a new table in a database.
 
@@ -425,21 +432,24 @@ WHERE condition;
 
 - The **DELETE** statement is used to delete existing records in a table. We need to remember about condition. If we omit the **WHERE** clause, all records in the table will be deleted!
 
-`DELETE FROM table_name WHERE condition;`
+```
+DELETE FROM table_name 
+WHERE condition;
+```
 
 - The **GROUP BY** statement groups rows that have the same values into summary rows
-- 
+
 
 ### The SQL Clause:
 
-- WHERE clause is used to filter records
+- **WHERE** clause is used to filter records. It can be combined with operators. It is used in statements such as **SELECT, UPDATE, DELETE, etc.!**
 - **SELECT TOP** in SQL Server (**LIMIT** in MySQL) clause is used to specify the number of records to return. It is useful on large tables because returning a large number of records can impact performance.
 
 ### The SQL Operators:
 - SQL Logical Operators
-  - **AND**
-  - **OR**
-  - **NOT**
+  - **AND** operator displays a record if all the conditions separated by **AND** are TRUE
+  - **OR** operator displays a record if any of the conditions separated by OR is TRUE
+  - **NOT** operator displays a record if the condition(s) is NOT TRUE
   - **LIKE** operator is used in a WHERE clause to search for a specified pattern in a column. 
   
    There are some wildcards used such as:
@@ -453,7 +463,8 @@ WHERE condition;
     "^"  Represents any character not in the brackets
     
     "-"  Represents any single character within the specified range
-      THE EXAMPLES
+    
+      **THE EXAMPLES**
     
       LIKE 'b%' Finds any values that start with "b"
     
