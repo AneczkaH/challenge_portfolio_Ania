@@ -273,7 +273,7 @@ Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
 :heavy_check_mark: wykonane
 
 #### Below link to my work
-[:link: Test Cases with bugs reports](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
+[:link: Test report](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
 
 ## Subtask 4 Dla grupy i chętnych. Sesja testów eksploracyjnych
 
