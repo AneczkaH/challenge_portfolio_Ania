@@ -367,7 +367,9 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 
 :heavy_check_mark: done
 
-[:link: Jira Project - swipeTo app testing](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1)
+[:link: Jira Project - team testing of the swipeTo application](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1)
+
+Thanks girls :woman: :girl: :woman: **Ilona Radecka** and **Jowita Kołucka**
 
 
 # TASK 5
