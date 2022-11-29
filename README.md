@@ -36,7 +36,7 @@
  
  :point_right: [Subtask 3 Do czego służy ta aplikacja?](#subtask-3-do-czego-służy-ta-aplikacja)
  
- :point_right: [Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej](#subtask-4-dla-grupy-i-chętnych-testy-aplikacji-mobilnej-i-webowej)
+ :point_right: [Subtask 4 For groups and willing people. Mobile and web application tests](#subtask-4-for-groups-and-willing-people-mobile-and-web-application-tests)
  
 # TASK 5
 :point_right: [Subtask 1 A short basic SQL course](#subtask-1-a-short-basic-sql-course)
@@ -363,7 +363,7 @@ Aplikacja jest dość intuicyjna i przyjemna w obsłudze.
 Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wziąć pod uwagę wiele rodzajów telefonów, wielkości ekranów oraz systemów operacyjnych, które częściej się zmieniają.
 
 
-## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
+## Subtask 4 For groups and willing people. Mobile and web application tests
 
 :heavy_check_mark: done
 
