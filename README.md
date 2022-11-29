@@ -249,7 +249,6 @@ Podczas edycji GRACZA/MECZU przycisk CLEAR czyści tylko nowo dodane pola.
 
 
 
-
 # TASK 3
 
 Zadanie wykonałam w 1 pliku w oddzielnych arkuszach.
@@ -340,7 +339,13 @@ Aplikacja jest dość intuicyjna i przyjemna w obsłudze.
 
 ### Jak usprawnić aplikację? 
 
-:wrench: Do muzyki dodałabym przyciski poprzedni następny utwór, oraz opcje puszczania utworów w pętli. 
+:wrench: Do muzyki dodałabym przyciski poprzedni następny utwór, polubienie oraz opcje puszczania utworów w pętli. 
+
+:wrench: Listy polubionych audycji i muzyki przenisłabym w inne miejsce. Aktualnie umiejscowione w profilu są dosyć nieintuicyjne.
+
+:wrench: Dodałabym możliwość polecania audycji znajomym i możliwość zapraszania do aplikacji.
+
+:wrench: Dodałabym statystyki, najczęściej odsłuchiwanych audycji.
 
 :wrench: Opcja dopasowania materiałów do konkretnej osoby "Dla ciebie" należałoby dopracować. Tak aby wybierając Rozwój osobisty nie otrzymywać informacji np. "zdrowie psyhiczne w połogu" hmm trochę się zdziwiłam :scream_cat: Dlatego do opcji "Dla ciebie" w ankiecie w 2 pytaniu dodałabym jeszcze opcję związaną z byciem mamą tak aby materiały związane z ciążą/dziećmi itd. były dobrze proponowane. 
 
@@ -350,7 +355,7 @@ Aplikacja jest dość intuicyjna i przyjemna w obsłudze.
 
 :wrench: Ćwiczenia oddechowe bardzo mi się spodobały troszkę bym skróciła czas nabierania i zatrzymywania powietrza bo nawet na najniższym poziomie miałam problem :woozy_face:  :stuck_out_tongue_winking_eye: chyba że potrzebuje treningu :stuck_out_tongue_winking_eye: :muscle:
 
-:wrench: Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategori - nie podoba mi się aktualny. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby nie przycinały się z powodu braku miejsca na ekranie. 
+:wrench: Zmieniłabym na stronie "Odkrywaj" sposób przewijania kategorii - aktualny nie przypadł mi do gustu. Osobiście wolałabym przewijając w danym momencie widzieć w 2 rzędach po 1 na rząd tak aby przyciski nie przycinały się z powodu braku miejsca na ekranie. 
 
 
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
@@ -361,6 +366,8 @@ Moim zdaniem testowanie aplikacji mobilnych jest bardziej wymagające należy wz
 ## Subtask 4 Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
 
 :heavy_check_mark: done
+
+[:link: Jira Project - swipeTo app testing](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1)
 
 
 # TASK 5
