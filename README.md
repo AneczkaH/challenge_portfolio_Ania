@@ -712,8 +712,6 @@ SELECT actors.name, actors.surname, movies.title FROM ((cast INNER JOIN actors O
 ```
 INSERT INTO customers (customer_id, name, surname, email, pseudonym) 
 VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa");
-```
-
-``` 
 SELECT * FROM customers;
 ```
+![image](/task 6/zad20.png)
