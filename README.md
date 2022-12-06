@@ -749,6 +749,7 @@ WHERE year_of_production > 2000;
 
 SELECT * FROM movies;
 ```
+
 ![image](/Task_6/zad18.png)
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
