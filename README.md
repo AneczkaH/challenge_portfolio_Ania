@@ -48,6 +48,10 @@
 # TASK 6
 :point_right: [Subtask 1 A short basic SQL course Part 2](#subtask-1-a-short-basic-sql-course-part-2)
 
+:point_right: [Subtask 2 Knowledge test](#subtask-2-knowledge-test)
+
+:point_right: [Subtask 3 Creating a portfolio](#subtask-3-creating-a-portfolio)
+
 # TASK 1
 
 ## Subtask 1
@@ -778,3 +782,11 @@ SELECT * FROM customers;
 ```
 
 ![image](/Task_6/zad20.png)
+
+## Subtask 2 Knowledge test
+
+13/15 :grinning: za drugim razem 15/15 :sweat_smile:
+
+## Subtask 3 Creating a portfolio
+
+[Portfolio](https://github.com/AneczkaH)
