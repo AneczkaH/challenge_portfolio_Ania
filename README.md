@@ -733,6 +733,7 @@ FROM customers
 UNION SELECT name 
 FROM actors 
 ORDER BY name;
+```
 
 ![image](/Task_6/zad17.png)
 
